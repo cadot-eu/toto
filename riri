@@ -1,5 +1,1 @@
-<div
-    class="d-print-block"
->
-    Some Word
-</div>
+<div class="d-print-block" Some Word </div>
